@@ -21,4 +21,4 @@ To run experiments, execute the following scripts:
 ###  Image Maze
 `. scripts/image_maze.sh`
 
-Trained policies for 3D quadroter navigation and generated sample trajectory using Recovery RL and Unconstrained RL are located in the `trained/` folder.
+Trained policies for 3D quadroter navigation and generated sample trajectory using Recovery RL and Unconstrained RL as well as results for all experiments can be accessed via this link: https://drive.google.com/file/d/1VfY-jBVatPug8kDOxl47_BwFkwtQeTbk/view?usp=share_link
